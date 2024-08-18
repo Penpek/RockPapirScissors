@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\DOMASHKA\bin\Debug\net7.0\DOMASHKA.exe
+C:\Users\Андрей\Desktop\DOMASHKA\bin\Debug\net7.0\DOMASHKA.deps.json
+C:\Users\Андрей\Desktop\DOMASHKA\bin\Debug\net7.0\DOMASHKA.runtimeconfig.json
+C:\Users\Андрей\Desktop\DOMASHKA\bin\Debug\net7.0\DOMASHKA.dll
+C:\Users\Андрей\Desktop\DOMASHKA\bin\Debug\net7.0\DOMASHKA.pdb
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.dll
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\refint\DOMASHKA.dll
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.pdb
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\DOMASHKA.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\DOMASHKA\obj\Debug\net7.0\ref\DOMASHKA.dll
